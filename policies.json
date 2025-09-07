@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "pol001",
+    "name": "Rural Representation",
+    "description": "Ensure at least 30% of interns are from rural/aspirational districts",
+    "quota": 0.3
+  },
+  {
+    "_id": "pol002",
+    "name": "Category Representation",
+    "description": "Ensure fair representation of SC/ST/OBC candidates in selections",
+    "quota": 0.4
+  },
+  {
+    "_id": "pol003",
+    "name": "First-Time Priority",
+    "description": "Prioritize students with no past internships",
+    "quota": 0.5
+  }
+]

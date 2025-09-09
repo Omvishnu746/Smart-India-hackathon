@@ -1,3 +1,2 @@
 # Smart-India-hackathon
-Ishita Garg
-helllllloooooo 
+hii ishita

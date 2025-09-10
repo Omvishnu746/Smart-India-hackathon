@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Tutorial</title>
+
+    <!-- Intro.js CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/intro.js/minified/introjs.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Platform Tutorial</h1>
+
+    <form id="tutorial-form">
+        <div data-step="1" data-intro="Enter your name here to start.">
+            <label for="name">Full Name:</label><br>
+            <input type="text" id="name" name="name" placeholder="Your Name"><br><br>
+        </div>
+
+        <div data-step="2" data-intro="Enter your skills so we can match you.">
+            <label for="skills">Skills:</label><br>
+            <input type="text" id="skills" name="skills" placeholder="Python, Excel"><br><br>
+        </div>
+
+        <div data-step="3" data-intro="Click submit when you're done.">
+            <button type="submit">Submit</button>
+        </div>
+    </form>
+
+    <button id="start-tour">Start Tutorial</button>
+
+    <!-- Intro.js script -->
+    <script src="https://unpkg.com/intro.js/minified/intro.min.js"></script>
+
+    <!-- Custom script -->
+    <script src="script.js"></script>
+</body>
+</html>

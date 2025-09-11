@@ -1,12 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HelpBot</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Website with Chatbot</title>
 </head>
 <body>
-    <iframe width="350" height="430" allow="microphone;" src="https://bot.dialogflow.com/154c4b4d-934f-4e32-bcc7-aeb92879a974" ></iframe>
+
+  <h1>Welcome to Our Internship Project Website</h1>
+  <p>Explore details, categories, and connect with our chatbot below.</p>
+
+  <!-- Dialogflow Messenger -->
+  <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+  <df-messenger
+    intent="WELCOME"
+    chat-title="Helper"
+    agent-id="154c4b4d-934f-4e32-bcc7-aeb92879a974"
+    language-code="en"
+  ></df-messenger>
+
 </body>
 </html>

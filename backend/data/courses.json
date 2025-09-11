@@ -1,0 +1,66 @@
+[
+      {
+          "title": "AI/ML using Python",
+          "skills": ["ml", "machine learning", "python"],
+          "level": "beginner",
+          "provider": "SWAYAM Plus",
+          "duration": "self-paced",
+          "url": "https://swayam-plus.swayam2.ac.in/ai-for-all-courses"
+      },
+      {
+          "title": "Introduction to Machine Learning",
+          "skills": ["ml", "machine learning"],
+          "level": "beginner",
+          "provider": "NPTEL on Swayam",
+          "duration": "12 weeks",
+          "url": "https://onlinecourses.nptel.ac.in"
+      },
+      {
+          "title": "Machine Learning, ML",
+          "skills": ["ml", "machine learning"],
+          "level": "beginner",
+          "provider": "NPTEL on Swayam",
+          "duration": "8 weeks",
+          "url": "https://onlinecourses.swayam2.ac.in"
+      },
+      {
+          "title": "A Basic Course in Machine Learning for All",
+          "skills": ["ml", "machine learning"],
+          "level": "beginner",
+          "provider": "Swayam",
+          "duration": "self-paced",
+          "url": "https://onlinecourses.swayam2.ac.in"
+      },
+      {
+          "title": "AI-Machine Learning Engineer Certificate Course",
+          "skills": ["ml", "machine learning", "ai"],
+          "level": "beginner",
+          "provider": "Skill India",
+          "duration": "self-paced",
+          "url": "https://www.skillindia.gov.in"
+      },
+      {
+          "title": "Machine Learning Algorithm using Python",
+          "skills": ["ml", "machine learning", "python"],
+          "level": "beginner",
+          "provider": "Skill India",
+          "duration": "self-paced",
+          "url": "https://www.skillindia.gov.in"
+      },
+      {
+          "title": "Machine Learning",
+          "skills": ["ml", "machine learning"],
+          "level": "beginner",
+          "provider": "Skill India",
+          "duration": "180 hours",
+          "url": "https://www.skillindia.gov.in"
+      },
+      {
+          "title": "AI-Machine Learning Engineer Foundation Course",
+          "skills": ["ml", "machine learning", "ai"],
+          "level": "beginner",
+          "provider": "Skill India",
+          "duration": "self-paced",
+          "url": "https://www.skillindia.gov.in"
+      }
+  ]

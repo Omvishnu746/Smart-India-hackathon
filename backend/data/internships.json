@@ -1,0 +1,152 @@
+[
+  {
+    "internship_id": 201,
+    "title": "Data Science Intern",
+    "company": "Infosys",
+    "location": "Delhi",
+    "sector": "IT",
+    "skills_required": ["Python", "Machine Learning"],
+    "allowed_qualifications": ["B.Tech", "MCA", "B.Sc Computer Science"],
+    "capacity": 5
+  },
+  {
+    "internship_id": 202,
+    "title": "Blockchain Intern",
+    "company": "Polygon",
+    "location": "Remote",
+    "sector": "Blockchain",
+    "skills_required": ["Blockchain", "Solidity"],
+    "allowed_qualifications": ["B.Tech", "M.Tech"],
+    "capacity": 3
+  },
+  {
+    "internship_id": 203,
+    "title": "Mechanical Engineering Intern",
+    "company": "Tata Motors",
+    "location": "Pune",
+    "sector": "Automobile",
+    "skills_required": ["Mechanical Engineering", "CAD"],
+    "allowed_qualifications": ["B.Tech Mechanical"],
+    "capacity": 4
+  },
+  {
+    "internship_id": 204,
+    "title": "Policy Research Intern",
+    "company": "PRS Legislative Research",
+    "location": "Delhi",
+    "sector": "Public Policy",
+    "skills_required": ["Public Policy", "Research"],
+    "allowed_qualifications": ["BA Political Science", "MA Public Policy"],
+    "capacity": 2
+  },
+  {
+    "internship_id": 205,
+    "title": "AI Research Intern",
+    "company": "Google AI",
+    "location": "Bangalore",
+    "sector": "Artificial Intelligence",
+    "skills_required": ["Deep Learning", "TensorFlow"],
+    "allowed_qualifications": ["B.Tech", "M.Tech", "PhD"],
+    "capacity": 5
+  },
+  {
+    "internship_id": 206,
+    "title": "Frontend Developer Intern",
+    "company": "Flipkart",
+    "location": "Hyderabad",
+    "sector": "E-Commerce",
+    "skills_required": ["ReactJS", "JavaScript", "CSS"],
+    "allowed_qualifications": ["B.Tech IT", "MCA"],
+    "capacity": 4
+  },
+  {
+    "internship_id": 207,
+    "title": "Cybersecurity Intern",
+    "company": "Cisco",
+    "location": "Chennai",
+    "sector": "Cybersecurity",
+    "skills_required": ["Network Security", "Ethical Hacking"],
+    "allowed_qualifications": ["B.Tech CSE", "BCA"],
+    "capacity": 3
+  },
+  {
+    "internship_id": 208,
+    "title": "Marketing Analyst Intern",
+    "company": "Unilever",
+    "location": "Mumbai",
+    "sector": "Marketing",
+    "skills_required": ["Data Analytics", "Excel", "Presentation"],
+    "allowed_qualifications": ["MBA", "BBA"],
+    "capacity": 2
+  },
+  {
+    "internship_id": 209,
+    "title": "Financial Analyst Intern",
+    "company": "Goldman Sachs",
+    "location": "Bangalore",
+    "sector": "Finance",
+    "skills_required": ["Finance", "Excel", "Risk Analysis"],
+    "allowed_qualifications": ["B.Com", "MBA Finance"],
+    "capacity": 3
+  },
+  {
+    "internship_id": 210,
+    "title": "Civil Engineering Intern",
+    "company": "Larsen & Toubro",
+    "location": "Ahmedabad",
+    "sector": "Construction",
+    "skills_required": ["AutoCAD", "Civil Engineering"],
+    "allowed_qualifications": ["B.Tech Civil"],
+    "capacity": 4
+  },
+  {
+    "internship_id": 211,
+    "title": "Healthcare Data Analyst Intern",
+    "company": "Apollo Hospitals",
+    "location": "Chennai",
+    "sector": "Healthcare",
+    "skills_required": ["Data Analysis", "SQL", "Healthcare Management"],
+    "allowed_qualifications": ["B.Sc Statistics", "MBA Healthcare"],
+    "capacity": 2
+  },
+  {
+    "internship_id": 212,
+    "title": "Cloud Computing Intern",
+    "company": "Amazon Web Services",
+    "location": "Remote",
+    "sector": "Cloud",
+    "skills_required": ["AWS", "Linux", "Cloud Security"],
+    "allowed_qualifications": ["B.Tech IT", "MCA"],
+    "capacity": 5
+  },
+  {
+    "internship_id": 213,
+    "title": "UI/UX Design Intern",
+    "company": "Adobe",
+    "location": "Bangalore",
+    "sector": "Design",
+    "skills_required": ["Figma", "UI Design", "Adobe XD"],
+    "allowed_qualifications": ["B.Des", "M.Des"],
+    "capacity": 3
+  },
+  {
+    "internship_id": 214,
+    "title": "Game Development Intern",
+    "company": "Ubisoft",
+    "location": "Pune",
+    "sector": "Gaming",
+    "skills_required": ["Unity", "C#", "3D Modelling"],
+    "allowed_qualifications": ["B.Tech CSE", "B.Sc Gaming"],
+    "capacity": 2
+  },
+  {
+    "internship_id": 215,
+    "title": "Robotics Intern",
+    "company": "ISRO",
+    "location": "Trivandrum",
+    "sector": "Robotics",
+    "skills_required": ["Robotics", "Python", "Embedded Systems"],
+    "allowed_qualifications": ["B.Tech ECE", "M.Tech Robotics"],
+    "capacity": 2
+  }
+]

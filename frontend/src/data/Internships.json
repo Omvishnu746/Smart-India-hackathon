@@ -1,0 +1,137 @@
+[
+  {
+    "_id": "int001",
+    "title": "Data Science Intern",
+    "company": "Infosys",
+    "location": "Delhi",
+    "skills_required": ["Python", "Machine Learning"],
+    "sector": "IT",
+    "capacity": 5
+  },
+  {
+    "_id": "int002",
+    "title": "Web Developer Intern",
+    "company": "Wipro",
+    "location": "Bangalore",
+    "skills_required": ["Java", "Web Development"],
+    "sector": "IT",
+    "capacity": 3
+  },
+  {
+    "_id": "int003",
+    "title": "Finance Intern",
+    "company": "HDFC Bank",
+    "location": "Mumbai",
+    "skills_required": ["Finance", "Accounting", "Excel"],
+    "sector": "Finance",
+    "capacity": 4
+  },
+  {
+    "_id": "int004",
+    "title": "Marketing Intern",
+    "company": "Zomato",
+    "location": "Remote",
+    "skills_required": ["Digital Marketing", "SEO", "Content Writing"],
+    "sector": "Marketing",
+    "capacity": 6
+  },
+  {
+    "_id": "int005",
+    "title": "AI Research Intern",
+    "company": "IIT Delhi",
+    "location": "Delhi",
+    "skills_required": ["AI", "Deep Learning", "Python"],
+    "sector": "Research",
+    "capacity": 2
+  },
+  {
+    "_id": "int006",
+    "title": "Civil Engineering Intern",
+    "company": "Larsen & Toubro",
+    "location": "Hyderabad",
+    "skills_required": ["Civil Engineering", "AutoCAD"],
+    "sector": "Construction",
+    "capacity": 5
+  },
+  {
+    "_id": "int007",
+    "title": "Healthcare Research Intern",
+    "company": "Apollo Hospitals",
+    "location": "Chennai",
+    "skills_required": ["Healthcare", "Biotech Research"],
+    "sector": "Healthcare",
+    "capacity": 3
+  },
+  {
+    "_id": "int008",
+    "title": "Policy Analyst Intern",
+    "company": "NITI Aayog",
+    "location": "Delhi",
+    "skills_required": ["Government Schemes", "Policy Analysis"],
+    "sector": "Public Policy",
+    "capacity": 4
+  },
+  {
+    "_id": "int009",
+    "title": "UI/UX Design Intern",
+    "company": "Adobe",
+    "location": "Noida",
+    "skills_required": ["UI/UX Design", "Figma", "Photoshop"],
+    "sector": "Design",
+    "capacity": 3
+  },
+  {
+    "_id": "int010",
+    "title": "Cybersecurity Intern",
+    "company": "Cisco",
+    "location": "Bangalore",
+    "skills_required": ["Cybersecurity", "Networking"],
+    "sector": "IT",
+    "capacity": 4
+  },
+  {
+    "_id": "int011",
+    "title": "Robotics Intern",
+    "company": "ISRO",
+    "location": "Bangalore",
+    "skills_required": ["Robotics", "IoT"],
+    "sector": "Research",
+    "capacity": 2
+  },
+  {
+    "_id": "int012",
+    "title": "Content Writing Intern",
+    "company": "Times of India",
+    "location": "Lucknow",
+    "skills_required": ["Content Writing", "Social Media"],
+    "sector": "Media",
+    "capacity": 5
+  },
+  {
+    "_id": "int013",
+    "title": "Blockchain Intern",
+    "company": "Polygon",
+    "location": "Remote",
+    "skills_required": ["Blockchain", "Solidity"],
+    "sector": "Blockchain",
+    "capacity": 3
+  },
+  {
+    "_id": "int014",
+    "title": "Mechanical Engineering Intern",
+    "company": "Tata Motors",
+    "location": "Pune",
+    "skills_required": ["Mechanical Engineering", "CAD"],
+    "sector": "Automobile",
+    "capacity": 4
+  },
+  {
+    "_id": "int015",
+    "title": "Public Policy Research Intern",
+    "company": "PRS Legislative Research",
+    "location": "Delhi",
+    "skills_required": ["Public Policy", "Research"],
+    "sector": "Public Policy",
+    "capacity": 2
+  }
+]
